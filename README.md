@@ -1,6 +1,6 @@
 <!-- ✨ HEADER ✨ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00cc,50:7b2ff7,100:00e5ff&height=220&section=header&text=Feyza%20Güneş&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Computer%20Engineering%20Student%20•%20Avionics%20•%20R%26D&descAlignY=58&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00cc,50:7b2ff7,100:00e5ff&height=220&section=header&text=Feyza%20G%C3%BCne%C5%9F&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Computer%20Engineering%20Student%20%E2%80%A2%20Avionics%20%E2%80%A2%20R%26D&descAlignY=58&descSize=18" width="100%"/>
 </p>
 
 <p align="center">
@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/feyzagunes"><img src="https://img.shields.io/badge/LinkedIn-feyzagunes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/📍-Bursa%2C%20Türkiye-ff00cc?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Bursa%2C%20T%C3%BCrkiye-ff00cc?style=for-the-badge&logo=googlemaps&logoColor=white"/>
   <img src="https://komarev.com/ghpvc/?username=gunesfeyza&label=Profil%20Ziyareti&color=7b2ff7&style=for-the-badge"/>
 </p>
 
@@ -58,8 +58,8 @@
 ## 📊 GitHub İstatistikleri
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=gunesfeyza&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff00cc&icon_color=00e5ff&text_color=ffffff&count_private=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gunesfeyza&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff00cc&text_color=ffffff"/>
+  <img height="170" src="https://github-readme-stats.hackclub.dev/api?username=gunesfeyza&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff00cc&icon_color=00e5ff&text_color=ffffff&count_private=true"/>
+  <img height="170" src="https://github-readme-stats.hackclub.dev/api/top-langs/?username=gunesfeyza&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff00cc&text_color=ffffff"/>
 </p>
 
 <p align="center">
@@ -67,11 +67,11 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gunesfeyza&bg_color=0d1117&color=ff00cc&line=7b2ff7&point=00e5ff&area=true&hide_border=true" width="100%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gunesfeyza&theme=radical" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gunesfeyza&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7"/>
+  <img src="https://trophy.ryglcloud.net/?username=gunesfeyza&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7"/>
 </p>
 
 <!-- 🐍 Yılan animasyonu: .github/workflows/snake.yml eklendikten sonra çalışır -->
